@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "preofile.png"
   name             : "Jingxuan Wu"
-  pronouns         : # example: "she/her"  
-  bio              : "A personal website showcasing my projects and experiences in data science and machine learning."
+  bio              : "A personal website"
   location         : "Shenzhen China"
   employer         : "The Chinese University Hong Kong(Shenzhen)"
   uri              : # URL

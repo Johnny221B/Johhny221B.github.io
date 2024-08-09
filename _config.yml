@@ -21,7 +21,7 @@ repository               : "Johnny221B.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "preofile.png"
+  avatar           : "profile.png"
   name             : "Jingxuan Wu"
   bio              : "A personal website"
   location         : "Shenzhen China"

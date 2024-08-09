@@ -23,11 +23,11 @@ Feel free to connect with him on [LinkedIn](https://www.linkedin.com/in/jingxuan
 
 * **Research on Airport Congestion Contagion**  
   * *Dec 2023 - Present, The Chinese University of Hong Kong, Shenzhen*  
-  * Improved SIS models to predict and manage airport congestion using adaptive graph learning.
+  * Improved SIS models to predict and manage airport congestion using adaptive graph learning and ODE function.
 
 * **Optimization of Guangzhou Bus Rapid Transit (BRT) Public Road Usage**  
   * *Jan 2024 - Present, University of North Carolina at Chapel Hill*  
-  * Combined integer optimization and machine learning to enhance public road usage.
+  * Combined stochastic optimization model and machine learning to enhance public road usage.
 
 * **Study on Flight Delay Propagation Modeling**  
   * *Oct 2023 - Mar 2024, The Chinese University of Hong Kong, Shenzhen*  

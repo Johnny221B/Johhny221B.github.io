@@ -1,20 +1,16 @@
 ---
 permalink: /
-title: "Jingxuan Wu's Personal Website"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I am Jingxuan Wu, a third-year Big Data Science major at The Chinese University of Hong Kong, Shenzhen. I am deeply passionate about leveraging advanced machine learning and data science techniques to solve complex, real-world problems. My academic journey and research experiences have equipped me with a robust understanding of various machine-learning methodologies, optimization techniques, and statistical analyses.
+Jingxuan Wu is an undergraduate in the School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). He is pursuing a Bachelor's degree in Data Science and Big Data Technology and has been consistently recognized for his academic excellence, including being named to the Dean’s List and receiving the Undergraduate Research Assistantship. Jingxuan has also been actively involved in the Statistics Society at CUHKSZ.
 
-### Education and Academic Background
+Jingxuan is passionate about applying advanced machine learning, reinforcement learning, and operations research to solve complex, real-world problems. His research interests include the practical applications of deep learning, large language models, and optimization models. He has collaborated with faculty members from CUHKSZ and the University of North Carolina at Chapel Hill on various research projects, aiming to address significant operational challenges.
 
-I am pursuing a Bachelor of Science in Data Science and Big Data Technology, maintaining the top 15%. Throughout my academic career, I have taken numerous relevant courses such as Advanced Machine Learning, Optimization, Data Structures, Probability, and Statistics. My dedication to academic excellence has been recognized with multiple honors, including the Dean’s List and the Undergraduate Research Assistantship.
+He is actively seeking a Ph.D. position for Fall 2025 to further his research and continue exploring innovative solutions in the fields of data science and machine learning.
 
-### Future Goals
-
-I am actively seeking opportunities for a Ph.D. position in Fall 2025 to further my research in machine learning, optimization, and operations research. I aim to continue exploring innovative solutions to complex problems and contribute to advancements in data science.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jingxuan-wu-877397287/) and check out my projects on [GitHub](http://github.com/Johnny221B).
+Feel free to connect with him on [LinkedIn](https://www.linkedin.com/in/jingxuan-wu-877397287/) and check out my projects on [GitHub](http://github.com/Johnny221B).
